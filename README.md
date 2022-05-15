@@ -1,5 +1,5 @@
-# Fingerprint-Based-Indoor-Positioning-Using-Supervised-Machine-Learning
-WiFI Fingerprint-Based Indoor Positioning Using Supervised Machine Learning
+# WiFi Based Distance Estimation Using Supervised Machine Learning
+WiFi Based Distance Estimation Using Supervised Machine Learning
 
 
 
